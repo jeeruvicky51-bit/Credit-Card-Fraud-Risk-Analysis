@@ -3,6 +3,7 @@ Credit card fraud risk analysis using Power BI, DAX  Measures fraud rate and val
 
 
 
+![Credit Card Fraud Risk Analysis Dashboard](Snapshot_of_Credit_Card_Fraud_Risk_Analysis.png)
 
 
 
