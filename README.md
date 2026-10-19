@@ -1,6 +1,8 @@
 # Credit-Card-Fraud-Risk-Analysis
 Credit card fraud risk analysis using Power BI, DAX  Measures fraud rate and value, ranks fraud types, states and months, and tests whether risk labels work. Result: 28.6% fraud, Card Not Present leads, and the risk labels fail to flag fraud, so scoring rules need recalibration.
 
+<h1 align="center">💳 Credit Card Fraud Risk Analysis</h1> <p align="center"><b>How much fraud is there, what types dominate, and do the risk labels actually catch it?</b><br> Power BI dashboard with 6 custom DAX measures + Python statistical analysis of 1,000 card transactions</p> <p align="center"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-0B2545?style=for-the-badge" alt="DAX"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> </p> <p align="center"> 📄 <a href="report/Credit_Card_Fraud_Risk_Analysis_Report.pdf"><b>Read the 6-page report</b></a> &nbsp;|&nbsp; 📓 <a href="Credit_Card_Fraud_Risk_Analysis.ipynb"><b>Open the notebook</b></a> &nbsp;|&nbsp; 📊 <a href="Credit_Card_Fraud_Risk_Analysis.pbix"><b>Power BI file</b></a> </p>
+
 
 
 ![Credit Card Fraud Risk Analysis Dashboard](Snapshot_of_Credit_Card_Fraud_Risk_Analysis.png)
